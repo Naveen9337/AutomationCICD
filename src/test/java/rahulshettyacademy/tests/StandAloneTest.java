@@ -17,6 +17,8 @@ import org.openqa.selenium.WebElement;
 
 public class StandAloneTest {
 
+//This is test for CICD
+
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		String productName = "ZARA COAT 3";
